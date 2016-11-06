@@ -1,4 +1,16 @@
 Cold and dry, but everything is my favourite color
+<<<<<<< HEAD
+<<<<<<< HEAD
 The two moons may be a problem for the Wolfman
 But the Mummy will appreciate the lack of humidity
-But venus might be good too.
+<<<<<<< HEAD
+<<<<<<< HEAD
+An ill considered change
+=======
+>>>>>>> parent of 67496d9... Add concerns about effects of Mars' moon on Wolfman
+=======
+>>>>>>> parent of 67496d9... Add concerns about effects of Mars' moon on Wolfman
+=======
+>>>>>>> parent of 6d8b8ad... added notes on bad base
+=======
+>>>>>>> parent of 6d8b8ad... added notes on bad base
